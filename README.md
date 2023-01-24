@@ -1,6 +1,11 @@
 # Web Design 2 Starter
 
-<img src="web2.webp" /> 
+<a 
+href="https://app.netlify.com/start/deploy?repository=https://github.com/kallard8/web-2-starter">
+
+<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
+<!-- <img src="web2.webp" /> -->
 
 > Computers are dumb. Humans make them smart.
 
